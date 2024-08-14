@@ -1,6 +1,6 @@
-Code of Conduct
+CODE OF CONDUCT
 
- 1. Purpose
+1. Purpose
 
 Chatbot aims to be welcoming and inclusive to a wide range of contributors from diverse backgrounds. We strive to offer a friendly, safe, and inviting environment for everyone, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
@@ -8,7 +8,7 @@ This Code of Conduct sets out our expectations for all participants and the acti
 
 We encourage everyone involved in Chatbot to contribute to a positive and safe experience for all.
 
- 2. Open Source Citizenship
+2. Open Source Citizenship
 
 This Code of Conduct also seeks to enhance open-source involvement by highlighting the importance of recognizing and improving the impact of our actions on the community.
 
@@ -16,7 +16,7 @@ Communities reflect the societies they are part of, and positive actions are cru
 
 If you notice someone making extra efforts to foster a welcoming and inclusive environment, please let us know.
 
- 3. Expected Behavior
+3. Expected Behavior
 
 All community members are expected to:
 
@@ -27,7 +27,7 @@ All community members are expected to:
 - Be aware of your surroundings and fellow participants. Report any dangerous situations, distress, or violations of this Code of Conduct, even if they seem minor.
 - Respect all individuals at community event venues, which may be shared with the public.
 
- 4. Unacceptable Behavior
+4. Unacceptable Behavior
 
 The following behaviors are considered harassment and are not tolerated:
 
@@ -43,7 +43,7 @@ The following behaviors are considered harassment and are not tolerated:
 - Encouraging any of the above behaviors.
 - Disrupting community events, including talks and presentations.
 
- 5. Consequences of Unacceptable Behavior
+5. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and decision-makers, will not be tolerated.
 
@@ -51,7 +51,7 @@ Those asked to cease unacceptable behavior are expected to comply immediately.
 
 Community organizers may take appropriate actions, including temporary bans or permanent expulsion from the community, without prior warning (and without a refund for paid events).
 
- 6. Reporting Guidelines
+6. Reporting Guidelines
 
 If you experience or witness unacceptable behavior, or have concerns, please contact a community organizer promptly at akashdeepchikbaraik01@gmail.com.
 
@@ -61,17 +61,17 @@ Organizers are available to assist with contacting local law enforcement or prov
 
 If you believe you have been wrongly or unfairly accused of violating this Code of Conduct, notify Ahmadfaizalbh with a clear description of your grievance. It will be addressed according to our existing policies.
 
- 8. Scope
+8. Scope
 
 All participants (contributors, sponsors, and other guests) must follow this Code of Conduct in all community venues—both online and offline—and in any one-on-one interactions related to community matters.
 
 This Code of Conduct also applies to unacceptable behavior occurring outside community activities if it affects the safety and well-being of community members.
 
- 9. Contact Information
+9. Contact Information
 
 For questions or concerns, email xakashbaraik@outlook.com.
 
- 10. License and Attribution
+10. License and Attribution
 
 MIT License
 
@@ -83,4 +83,3 @@ The above copyright notice and this permission notice must be included in all co
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OTHER DEALINGS IN THE SOFTWARE.
 
--
