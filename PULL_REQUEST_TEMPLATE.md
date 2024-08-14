@@ -1,4 +1,4 @@
-## Before submitting a pull request, please make sure the following is done:
+Before submitting a pull request, please make sure the following is done:
 
 1. Fork the repository and create your branch from master.
 2. If you've fixed a bug or added code that should be tested, add tests!
@@ -7,7 +7,6 @@
 5. In case of adding new testcases mention test coverage.
 
 
-Fixes #
-
+Fixes 
 Changes proposed in this pull request
 \\
